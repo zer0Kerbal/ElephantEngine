@@ -1,11 +1,11 @@
 {
-	"NAME"		   : "Elephant Engine (NBEE)",
-	"URL"			: "https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/ElephantEngine.version",
-	"DOWNLOAD"	   : "https://github.com/zer0Kerbal/ElephantEngine/releases/latest",
+	"NAME"		     : "The Elephant Engine (NBEE)",
+	"URL"		     : "https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/ElephantEngine.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/ElephantEngine/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/Changelog.cfg",
 	"GITHUB" :
 	{
-		"USERNAME"		  : "zer0Kerbal",
+		"USERNAME"	  	    : "zer0Kerbal",
 		"REPOSITORY"		: "ElephantEngine",
 		"ALLOW_PRE_RELEASE" : false
 	},
@@ -20,13 +20,13 @@
 	{
 		"MAJOR" : 1,
 		"MINOR" : 12,
-		"PATCH" : 1
+		"PATCH" : 3
 	},
 	"KSP_VERSION_MIN" :
 	{
 		"MAJOR" : 1,
-		"MINOR" : 1,
-		"PATCH" : 1
+		"MINOR" : 0,
+		"PATCH" : 0
 	},
 	"KSP_VERSION_MAX" :
 	{
