@@ -91,7 +91,7 @@ The Elephant Engine is effectively a 75% "Mammoth". It consists of three "Vector
 >   * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
 >   * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 >   * ![Polski][PO] Polish (Polski) <pl.cfg>  
->   * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg> 
+>   * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
