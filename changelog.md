@@ -17,7 +17,7 @@
 
 ---
 
-## Version 0.2.9.9-adoption `<Adoption>`
+## Version 0.2.99.0-adoption `<Adoption>`
 
 * 17 Dec 2021
 * fRelease for Kerbal Space Program [KSP 1.12.x]
