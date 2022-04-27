@@ -1,14 +1,21 @@
 # Changelog  
   
-| modName    | The Elephant Engine (NBEE)                                        |
-| ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
-| author     | NecroBones and zer0Kerbal                                         |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/206024-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/ElephantEngine)         |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ElephantEngine)       |
-| spacedock  | (https://spacedock.info/mod/664)                                  |
-| ckan       | ElephantEngine                                                    |
+| modName    | The Elephant Engine (NBEE)                                  |
+| ---------- | ----------------------------------------------------------- |
+| license    | CC-BY-SA-4.0                                                |
+| author     | NecroBones and zer0Kerbal                                   |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/-*)  |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/ElephantEngine)   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ElephantEngine) |
+| spacedock  | (https://spacedock.info/mod/664)                            |
+| ckan       | ElephantEngine                                              |
+
+## # Version 0.2.99.1-prerelease - `<Back in the Saddle Again!>`
+
+* 27 Apr 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+---
 
 ## Version 0.2.9.9-adoption `<Adoption>`
 
