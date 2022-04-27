@@ -22,8 +22,7 @@ updated: 27 Mar 2022
 
 ### Credits
 
-* <img border="0" alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > [`NecroBones`][necrobones] for [LithobrakeExplorationTechnologies][LET]
-* [beefpatty][beefpatty] for providing the Simplified Chinese (简体中文) translation 🧧
+* <img border="0" alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > [`NecroBones`][necrobones] for [Elephant Engine (NBEE)][NBEE]
 * **Thanks to everyone who gave feedback! It's very important for me and highly appreciated.**
 
 ### Flag
@@ -37,10 +36,6 @@ updated: 27 Mar 2022
 ### Translations
 
 * none
-
-### Inspiration
-
-[![Inspiration](https://img.youtube.com/vi/X4iMeKif488/0.jpg)](https://www.youtube.com/watch?v=X4iMeKif488)
 
 ### Special Thanks
 
@@ -61,7 +56,6 @@ updated: 27 Mar 2022
 
 [necrobones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
-[beefpatty]: https://github.com/beefpatty "beefpatty"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif -->
