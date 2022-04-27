@@ -49,7 +49,7 @@ The Elephant Engine is effectively a 75% "Mammoth". It consists of three "Vector
     * heatProduction = 192
     * ISP
       * sea level: 295
-      * vacumme: 315
+      * vacuum: 315
     * propellant: LiquidFuel + Oxidizer
   * Alternator: 9.0 EC/s
 * Gimbal
