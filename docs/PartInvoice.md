@@ -38,7 +38,7 @@ This add-on adds one engine part
     * heatProduction = 192
     * ISP
       * sea level: 295
-      * vacumme: 315
+      * vacuum: 315
     * propellant: LiquidFuel + Oxidizer
   * Alternator: 9.0 EC/s
 * Gimbal
