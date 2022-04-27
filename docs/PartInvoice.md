@@ -20,8 +20,6 @@ updated: 30 Mar 2022 -->
 
 This add-on adds one engine part
 
----
-
 * S3 KS-25x3 "Elephant" Liquid Fuel Engine
   * bulkheadProfiles = srf, size1
   * TechRequired = veryHeavyRocketry
@@ -51,8 +49,7 @@ This add-on adds one engine part
   * gimbalResponseSpeed = 8
 * ModuleTestSubject
 
-
-  <img src="NBengineElephant_icon" alt="Mallet" width="25%" height="25%" />---
+  <img src="NBengineElephant_icon" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/GameData/NecroBones/ElephantEngine/Parts/%40thumbs/NBengineElephant_icon" alt="S3 KS-25x3 'Elephant' Liquid Fuel Engine" width="25%" height="25%" />
 
 ---
 
