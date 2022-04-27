@@ -2,7 +2,7 @@
 	"NAME"		     : "The Elephant Engine (NBEE)",
 	"URL"		     : "https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/ElephantEngine.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/ElephantEngine/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/Changelog.cfg",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/changelog.md",
 	"GITHUB" :
 	{
 		"USERNAME"	  	    : "zer0Kerbal",

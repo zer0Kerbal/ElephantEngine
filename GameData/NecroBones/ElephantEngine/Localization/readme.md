@@ -160,5 +160,5 @@ Once all the questions and comments are resolved to my satisfaction, your change
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 [HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
-<!-- CC BY-ND-3.0 unported  -->
+<!-- CC BY-ND-4.0  -->
 <!-- zer0Kerbal  -->
