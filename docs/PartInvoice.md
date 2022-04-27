@@ -20,39 +20,33 @@ updated: 30 Mar 2022 -->
 
 This add-on adds one engine part
 
----
-
 * S3 KS-25x3 "Elephant" Liquid Fuel Engine
-  * bulkheadProfiles = srf, size1
+  * category = Engine
   * TechRequired = veryHeavyRocketry
   * entryCost = 86250
   * cost = 29250
-  * category = Engine
-  * mass = 18.5
-  * maxTemp = 2000
-  * breakingForce = 400
-  * breakingTorque = 400
-  * crashTolerance = 22
+  * Physical Characteristics
+    * bulkheadProfiles = srf, size1
+    * mass = 18.5
+    * maxTemp = 2000
+    * crashTolerance = 22
+    * breakingForce = 400
+    * breakingTorque = 400
   * MultiModeEngine LFO engine
     * minThrust = 0
     * maxThrust = 3000
     * heatProduction = 192
-    * atmosphereCurve
-      * key = 0 315
-      * key = 1 295
-      * key = 12 0.001
-    * PROPELLANT
-      * LiquidFuel
-      * Oxidizer
-      * Alternator
-        * 9.0 EC/s
+    * ISP
+      * sea level: 295
+      * vacumme: 315
+    * propellant: LiquidFuel + Oxidizer
+  * Alternator: 9.0 EC/s
 * Gimbal
   * gimbalRange = 10.5
   * gimbalResponseSpeed = 8
 * ModuleTestSubject
 
-
-  <img src="NBengineElephant_icon" alt="Mallet" width="25%" height="25%" />---
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/GameData/NecroBones/ElephantEngine/Parts/%40thumbs/NBengineElephant_icon.png" alt="S3 KS-25x3 'Elephant' Liquid Fuel Engine" width="25%" height="25%" />
 
 ---
 
