@@ -6,7 +6,8 @@
 
 ## 0.2(.0.0)
 
-* 2015-05-06
+* 2016-05-06
+* Released for Kerbal Space Program 1.9.1
 
 * Initial Release.
 
