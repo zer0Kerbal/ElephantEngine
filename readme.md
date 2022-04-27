@@ -2,6 +2,7 @@
 
 by Ed T. Toton III, aka NecroBones.
 
+![Hero](https://github.com/zer0Kerbal/ElephantEngine/blob/master/img/HeroLogo_1920x1920.png)
 
 ## Installation:
 
