@@ -65,4 +65,4 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 
-<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
+<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
