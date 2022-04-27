@@ -30,19 +30,6 @@
 
 ### Localization
 
-ko.txt
-nl-nl.txt
-no-no.txt
-pl.txt
-pt-pr.txt
-ru.txt
-sw-sw.txt
-de-de.txt
-es-es.txt
-es-it.txt
-fr-fr.txt
-ja.txt
-
 * Create
 * Localization/
   * <en-us.cfg>
