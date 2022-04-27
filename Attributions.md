@@ -34,6 +34,10 @@ updated: 27 Mar 2022
 
 * <img border="0" alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > [`NecroBones`][necrobones]
 
+### Translations
+
+* none
+
 ### Special Thanks
 
 <ul>
