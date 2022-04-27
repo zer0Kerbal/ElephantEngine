@@ -1,6 +1,22 @@
-# Changelog
+# Changelog  
+  
+| modName    | The Elephant Engine (NBEE)                                  |
+| ---------- | ----------------------------------------------------------- |
+| license    | CC-BY-SA-4.0                                                |
+| author     | NecroBones and zer0Kerbal                                   |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/-*)  |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/ElephantEngine)   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ElephantEngine) |
+| spacedock  | (https://spacedock.info/mod/664)                            |
+| ckan       | ElephantEngine                                              |
 
-## 0.2.99.0-adoption
+## Version 0.2.9.9-adoption
+
+* 26 Apr 2022
+* for KSP 1.12.3
+
+* #29 - 0.2.9.9 adoption
+* #30 - Update and rename ElephantEngine-README.txt to readme.md - contributed by zer0Kerbal
 
 ---
 
