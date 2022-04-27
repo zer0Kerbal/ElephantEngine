@@ -189,4 +189,4 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 Creative Commons may be contacted at [creativecommons.org](http://creativecommons.org/).
 ```
 
-<!-- CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+<!-- CC BY-NC-ND 4.0 by zer0Kerbal -->
