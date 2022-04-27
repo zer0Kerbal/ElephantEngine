@@ -38,6 +38,10 @@ updated: 27 Mar 2022
 
 * none
 
+### Inspiration
+
+[![Inspiration](https://img.youtube.com/vi/X4iMeKif488/0.jpg)](https://www.youtube.com/watch?v=X4iMeKif488)
+
 ### Special Thanks
 
 <ul>
