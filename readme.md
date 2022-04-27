@@ -79,6 +79,19 @@ The Elephant Engine is effectively a 75% "Mammoth". It consists of three "Vector
 ### Localization
 
 >* ![English][EN] English
+>* Machine Translation (needs human proofing)
+>   * ![Deutsch][DE] German (Deutsch)  <de.cfg>  
+>   * ![Español][ES] Spanish (Español) <es-es.cfg>  
+>   * ![Français][FR] French (Français) <fr-fr.cfg>  
+>   * ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
+>   * ![日本語][JA] Japanese(日本語) <ja.cfg>  
+>   * ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)<pt-br.cfg>  
+>   * ![Русский][RU] Russian (Русский) <ru.cfg>  
+>   * ![한국어][KO] [Korean (한국어) <ko.cfg>  
+>   * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
+>   * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
+>   * ![Polski][PO] Polish (Polski) <pl.cfg>  
+>   * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg> 
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
