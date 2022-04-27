@@ -17,7 +17,7 @@ updated: 18 Apr 2022 -->
 
 [Home](./index.md)
 
-A 75% 'Mammoth', consisting of 3 Vectors in a 3.75m base. Mode switching for Elephant-Plume effects! For Kerbal Space Program.
+<BLURB>
 
 ## Installation Instructions
 
