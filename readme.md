@@ -16,6 +16,10 @@ previous version, be sure to delete the old one from GameData first (this is the
 * [Current](https://forum.kerbalspaceprogram.com/index.php?/topic/206024-*/)
 * [Original](https://forum.kerbalspaceprogram.com/index.php?/topic/139162-*)
 
+## Wiki
+
+* [GitHub Pages](https://zer0kerbal.github.io/ElephantEngine/)
+
 ## Download
 
 * [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/elephantengine)
