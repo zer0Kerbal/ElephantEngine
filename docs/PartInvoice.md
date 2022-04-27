@@ -21,16 +21,17 @@ updated: 30 Mar 2022 -->
 This add-on adds one engine part
 
 * S3 KS-25x3 "Elephant" Liquid Fuel Engine
-  * bulkheadProfiles = srf, size1
+  * category = Engine
   * TechRequired = veryHeavyRocketry
   * entryCost = 86250
   * cost = 29250
-  * category = Engine
-  * mass = 18.5
-  * maxTemp = 2000
-  * breakingForce = 400
-  * breakingTorque = 400
-  * crashTolerance = 22
+  * Physical Characteristics
+    * bulkheadProfiles = srf, size1
+    * mass = 18.5
+    * maxTemp = 2000
+    * breakingForce = 400
+    * breakingTorque = 400
+    * crashTolerance = 22
   * MultiModeEngine LFO engine
     * minThrust = 0
     * maxThrust = 3000
@@ -42,8 +43,8 @@ This add-on adds one engine part
     * PROPELLANT
       * LiquidFuel
       * Oxidizer
-      * Alternator
-        * 9.0 EC/s
+  * Alternator
+    * 9.0 EC/s
 * Gimbal
   * gimbalRange = 10.5
   * gimbalResponseSpeed = 8
