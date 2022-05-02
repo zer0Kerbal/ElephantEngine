@@ -21,9 +21,8 @@ updated: 30 Mar 2022 -->
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
-
-__These localizations for KSP and its DLC's are available through Steam:__
-
+  
+Machine Translation (needs human proofing)
 * ![Deutsch][DE] German (Deutsch)  <de.cfg>  
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
 * ![Français][FR] French (Français) <fr-fr.cfg>  
@@ -31,16 +30,19 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![日本語][JA] Japanese(日本語) <ja.cfg>  
 * ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)<pt-br.cfg>  
 * ![Русский][RU] Russian (Русский) <ru.cfg>  
-* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
-
-## Included just in case
-
-* ![Español Mexicano][ME] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
 * ![한국어][KO] [Korean (한국어) <ko.cfg>  
 * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
 * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![Polski][PO] Polish (Polski) <pl.cfg>  
 * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
+
+__These localizations for KSP and its DLC's are available through Steam:__
+
+* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
+
+## Included just in case
+
+* ![Español Mexicano][ME] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
 * ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 
 [URL:lclztn]: https://github.com/zer0Kerbal/localization/blob/master/readme.md "Localization"
