@@ -161,7 +161,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/Attribution.md "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/ElephantEngine/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "ElephantEngine Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/206024-*/ "ElephantEngine Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/ElephantEngine/issues "GitHub Issues"
 [MOD:local]: https://github.com/zer0Kerbal/ElephantEngine/blob/master/GameData/ElephantEngine/Localization/readme.md "Localization"
 [MOD:pages]: https://zer0kerbal.github.io/ElephantEngine/ "GitHub Pages"
