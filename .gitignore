@@ -168,3 +168,4 @@ Thumbs.db
 *.temp
 *.old
 .vscode/
+*.ods#
