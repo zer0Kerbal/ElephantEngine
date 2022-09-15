@@ -62,7 +62,7 @@ The Elephant Engine is effectively a 75% "Mammoth". It consists of three "Vector
 ### See More
 
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog for more details of changes : See [ChangeLog][MOD:chlog]
+* Changelog for more details of changes: See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
 * GitHub Pages: See [Pages][MOD:pages]
 
