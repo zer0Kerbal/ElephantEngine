@@ -10,7 +10,12 @@
 | spacedock  | (https://spacedock.info/mod/664)                            |
 | ckan       | ElephantEngine                                              |
 
-## # Version 0.2.99.1-prerelease - `<Back in the Saddle Again!>`
+## Version 0.2.99.2-prerelease - `<Back in the Saddle Again!>` edition
+
+
+---
+
+## Version 0.2.99.1-prerelease - `<Back in the Saddle Again!>`
 
 * 27 Apr 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
