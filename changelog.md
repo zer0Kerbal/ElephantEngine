@@ -12,7 +12,7 @@
 
 ## Version 0.2.99.2-prerelease - `<Back in the Saddle Again!>` edition
 
-* 14 Sep 2022
+* 21 Sep 2022  
 * Release for Kerbal Space Program KSP 1.12.x
 
 ### Adjust
