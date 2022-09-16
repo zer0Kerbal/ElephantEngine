@@ -10,6 +10,63 @@
 | spacedock  | (https://spacedock.info/mod/664)                                 |
 | ckan       | ElephantEngine                                                   |
 
+## Version 0.2.99.2-prerelease - `<Back in the Saddle Again!>` edition
+
+* 21 Sep 2022  
+* Release for Kerbal Space Program KSP 1.12.x
+
+### Update 0.2.99.2
+
+* <NBengineElephant.cfg> v1.1.1.0
+  * [bulkheadProfiles]
+    * from size1, srf
+    * to size3, srf
+  * closes #46 - Correct bulkheadProfiles
+
+### Add
+
+* New Engine
+  * New model: <SSME3.mu>
+  * <NBengineElephantQuad.cfg> v1.0.1.0
+  * closes #42 - Request: Four Nozzle version
+
+### Localization 0.2.99.1
+
+* Add
+  * <de.cfg>
+  * <es-es.cfg>
+  * <fr-fr.cfg>
+  * <it-it.cfg>
+  * <ja.cfg>
+  * <ko.cfg>
+  * <nl-nl.cfg>
+  * <no-no.cfg>
+  * <pl.cfg>
+  * <pt-br.cfg>
+  * <ru.cfg>
+  * updates #12 - Localization - Master
+  * closes #17 - Localization - Russian (Русский) <ru.cfg>
+  * closes #18 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
+  * closes #19 - Localization - Polish (Polski) <pl.cfg>
+  * closes #20 - Localization - Norwegian (Norsk) <no-no.cfg>
+  * closes #21 - Localization - Dutch (Nederlands) <nl-nl.cfg>
+  * closes #22 - Localization - Korean (한국어) <ko.cfg>
+  * closes #23 - Localization - Japanese(日本語) <ja.cfg>
+  * closes #24 - Localization - Italian (Italiano) <it-it.cfg>
+  * closes #25 - Localization - French (Français) <fr-fr.cfg>
+  * closes #27 - Localization - Spanish (Español) <es-es.cfg>
+  * closes #28 - Localization - German (Deutsch) <de.cfg>
+
+### Status 0.2.99.2
+
+* Issues
+  * closes #48 - Elephant Engine (NBEE) 0.2.99.2-prerelease `<Back in the Saddle Again>` edition
+  * closes #49 - 0.2.99.2 Verify Legal Mumbo Jumbo
+  * closes #50 - 0.2.99.2 Update Documentation
+  * closes #51 - 0.2.99.2 Update Social Media
+
+---
+
 ## Version 0.2.99.1-prerelease - `<Thank you urturino>` edition
 
 * 14 Sep 2022
@@ -17,7 +74,7 @@
 
 ### Adjust
 
-* <NBengineElephant.cfg>
+* <NBengineElephant.cfg> v1.1.0.0
   * add header
   * thank you to urturino for these suggestions.
     * [mass] to 11.6255 from 18.5
