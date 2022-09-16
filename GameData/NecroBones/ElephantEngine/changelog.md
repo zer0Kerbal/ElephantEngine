@@ -10,27 +10,6 @@
 | spacedock  | (https://spacedock.info/mod/664)                                 |
 | ckan       | ElephantEngine                                                   |
 
-## Version 0.2.99.2-prerelease - `<Back in the Saddle Again!>` edition
-
-* 14 Sep 2022
-* Release for Kerbal Space Program KSP 1.12.x
-
-### Adjust
-
-* <NBengineElephant.cfg> v1.1.1.0
-  * [bulkheadProfiles]
-    * from size1, srf
-    * to size3, srf
-  
-### Add
-
-### Status 0.2.99.2
-
-* Issues
-
-
----
-
 ## Version 0.2.99.1-prerelease - `<Thank you urturino>` edition
 
 * 14 Sep 2022
@@ -38,7 +17,7 @@
 
 ### Adjust
 
-* <NBengineElephant.cfg> v1.1.0.0
+* <NBengineElephant.cfg>
   * add header
   * thank you to urturino for these suggestions.
     * [mass] to 11.6255 from 18.5
